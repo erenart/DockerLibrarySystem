@@ -1,0 +1,26 @@
+version: "2"
+services:
+  webapp:
+    container_name: librarysystem
+    image: librarysystemimage
+    ports:
+      - "9000:80"
+    #volumes:
+    #  - ./app:/var/www/html
+
+  mysql_db:
+    container_name: mysql_db
+    image: mysql:latest
+    restart: always
+    environment:
+      - "MYSQL_ROOT_PASSWORD=root"
+
+  phpmyadmin:
+    container_name: phpmyadmin
+    image: phpmyadmin:latest
+    restart: always
+    ports:
+      - "9001:80"
+    environment:
+      - "MYSQL_PASSWORD: root"
+      - "PMA_HOST=mysql_db"

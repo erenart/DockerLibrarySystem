@@ -1,0 +1,31 @@
+Options -indexes
+RewriteEngine On
+RewriteBase /
+RewriteRule ^register$ register_form.php [NC]
+RewriteRule ^admin$ admin_panel.php [NC]
+RewriteRule ^admin/contact$ admin_panel.php?page=contact [NC]
+RewriteRule ^admin/books_panel$ admin_panel.php?page=admin_books [NC]
+RewriteRule ^admin/user_panel$ admin_panel.php?page=admin_users [NC]
+RewriteRule ^admin/books_panel/add$ admin_panel.php?page=add_book [NC]
+RewriteRule ^admin/issued_books$ admin_panel.php?page=issued_books [NC]
+RewriteRule ^admin/issued_books/issue$ admin_panel.php?page=admin_issue [NC]
+
+RewriteRule ^admin/delete/(.*)/(.*)$ admin_panel.php?page=delete&ID=$1&target=$2 [NC]
+RewriteRule ^admin/delete/(.*)/(.*)$ admin_panel.php?page=delete&ID=$1&target=$2 [NC]
+RewriteRule ^admin/books_panel/edit/(.*)$ admin_panel.php?page=edit&ID=$1 [NC]
+RewriteRule ^admin/profile$ admin_panel.php?page=profile [NC]
+RewriteRule ^admin/profile/password_change$ admin_panel.php?page=password_change [NC]
+
+RewriteRule ^user$ user_page.php [NC]
+RewriteRule ^user/contact$ user_page.php?page=contact [NC]
+RewriteRule ^user/books$ user_page.php?page=books [NC]
+RewriteRule ^user/profile$ user_page.php?page=profile [NC]
+RewriteRule ^user/profile/password_change$ user_page.php?page=password_change [NC]
+
+
+
+RewriteRule ^user/issued_books$ user_page.php?page=user_issued_books [NC]
+
+
+RewriteRule ^user/logout$ user_page.php?page=logout [NC]
+RewriteRule ^admin/logout$ admin_panel.php?page=logout [NC]
