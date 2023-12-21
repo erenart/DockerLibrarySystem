@@ -56,7 +56,7 @@ There is an admin panel belongs to library. In admin account admin has a bunch o
     2) Admin can issue a book to a user by their id.
     3) Admin can revoke the book that was returned by the person who had borrowed it from the reception desk.
          ꜰᴇᴇᴅʙᴀᴄᴋ ᴍᴇᴄʜᴀɴɪꜱᴍ: ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ɪꜱꜱᴜᴇ ᴡɪᴛʜ ᴄᴏʀʀᴇᴄᴛ ɪɴꜰᴏ ᴀɴᴅ ʏᴏᴜ ᴄᴀɴ ɴᴏᴛ ɪꜱꜱᴜᴇ ᴀ ʙᴏᴏᴋ ᴛᴏ ᴍᴏʀᴇ ᴛʜᴀɴ ᴏɴᴇ ᴘᴇʀꜱᴏɴ ᴏʀ ᴀᴅᴍɪɴ ᴀᴄᴄᴏᴜɴᴛ
-         ᴏᴛʜᴇʀᴡɪꜱᴇ ʏᴏᴜ ɢᴏᴛ ᴡᴀʀɴɪɴɢ:
+    ᴏᴛʜᴇʀᴡɪꜱᴇ ʏᴏᴜ ɢᴏᴛ ᴡᴀʀɴɪɴɢ:
          •ᴛʜɪꜱ ʙᴏᴏᴋ ɪꜱ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ
          •ɪɴᴠᴀʟɪᴅ ᴜꜱᴇʀ ɪᴅ
          •ɪɴᴠᴀʟɪᴅ ʙᴏᴏᴋ ɪᴅ
@@ -73,7 +73,8 @@ Users can create account for displaying virtual library for borrowing book. In u
     1) Users can display info about all books and their status (available/issued).
     2) Users can display all issued book to themselves.
     3) Users can display their account information and change their password
-         ꜰᴇᴇᴅʙᴀᴄᴋ ᴍᴇᴄʜᴀɴɪꜱᴍ: ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴇɴᴛᴇʀ ᴏʟᴅ ᴘᴀꜱꜱᴡᴏʀᴅ ᴄᴏʀʀᴇᴄᴛʟʏ, ᴄᴏʀʀᴇᴄᴛ ᴄᴏɴꜰɪʀᴍᴀᴛɪᴏɴ ᴏꜰ ɴᴇᴡ ᴘᴀꜱꜱᴡᴏʀᴅ ᴀɴᴅ ɴᴇᴡ ᴘᴀꜱꜱᴡᴏʀᴅ ᴄᴀɴ'ᴛ ʙᴇ ᴘʀᴇᴠɪᴏᴜꜱ ᴏɴᴇ ᴏᴛʜᴇʀᴡɪꜱᴇ ʏᴏᴜ ɢᴏᴛ ᴡᴀʀɴɪɴɢ:
+         ꜰᴇᴇᴅʙᴀᴄᴋ ᴍᴇᴄʜᴀɴɪꜱᴍ: ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴇɴᴛᴇʀ ᴏʟᴅ ᴘᴀꜱꜱᴡᴏʀᴅ ᴄᴏʀʀᴇᴄᴛʟʏ, ᴄᴏʀʀᴇᴄᴛ ᴄᴏɴꜰɪʀᴍᴀᴛɪᴏɴ ᴏꜰ ɴᴇᴡ ᴘᴀꜱꜱᴡᴏʀᴅ ᴀɴᴅ ɴᴇᴡ ᴘᴀꜱꜱᴡᴏʀᴅ ᴄᴀɴ'ᴛ ʙᴇ ᴘʀᴇᴠɪᴏᴜꜱ ᴏɴᴇ 
+         ᴏᴛʜᴇʀᴡɪꜱᴇ ʏᴏᴜ ɢᴏᴛ ᴡᴀʀɴɪɴɢ:
          •ᴡʀᴏɴɢ ᴘᴀꜱꜱᴡᴏʀᴅ
          •ᴘᴀꜱꜱᴡᴏʀᴅꜱ ᴅᴏ ɴᴏᴛ ᴍᴀᴛᴄʜ
          •ɴᴇᴡ ᴘᴀꜱꜱᴡᴏʀᴅ ᴄᴀɴ ɴᴏᴛ ʙᴇ ᴛʜᴇ ꜱᴀᴍᴇ ᴀꜱ ʏᴏᴜʀ ᴏʟᴅ ᴘᴀꜱꜱᴡᴏʀᴅ
