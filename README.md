@@ -47,38 +47,43 @@ To set up the project, you'll need Docker and Docker Compose. Follow these steps
    username: super.kayne995@gmail.com
    password: 1234
 ## Admin Panel 📑
-
 There is an admin panel belongs to library. In admin account admin has a bunch of authorities on library data over these 3 pages;
 
     ```
     1) Books Panel
     2) Issue Book
     3) User Panel
-2. Books Panel
-
+2. _Books Panel_
     ```
     1) Admin can display info about all books and their status (available/issued).
-    2) Admin can *add* a new book to the system.
-    3) Admin can *edit* current book in the system.
-    4) Admin can *delete* current book from the system.
-2. Issue Book
+    2) Admin can **add** a new book to the system.
+    3) Admin can **edit** current book in the system.
+    4) Admin can **delete** current book from the system.
+2. _Issue Book_
     ```
     1) Admin can display information about all issued books, including details about who issued them and for how many days
     2) Admin can issue a book to a user by their id.
-    <sup>feedback mechanism: you need to issue with correct info and you can not issue a book to more than one person or admin account you got warning:</sup>
-    <sup>THIS BOOK IS NOT AVAILABLE</sup>
-    <sup>INVALID User ID</sup>
-    <sup>INVALID Book ID</sup>
-    <sup>superscript</sup>
+    _feedback mechanism: you need to issue with correct info and you can not issue a book to more than one person or admin account you got warning:_
+    _THIS BOOK IS NOT AVAILABLE_
+    _INVALID User ID_
+    _INVALID Book ID_
     3) Admin can revoke the book that was returned by the person who had borrowed it from the reception desk.
-3. User Panel
+3. _User Panel_ <sup>superscript</sup>
     ```
     1) Admin can display information about all users.
     2) Admin can delete a user's account.
 
 
-3. Connecting to the postgreSQL databse of project.
+
+
+
+
+
+
+
+
     
+3. Connecting to the postgreSQL databse of project.
     ```
     1) In the pgAdmin interface, click on "Add New Server" (usually a plus icon or an "Add New Server" option in the menu).
     2) In the "General" tab, provide a name for your server in the "Name" field.
