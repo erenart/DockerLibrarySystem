@@ -56,9 +56,9 @@ There is an admin panel belongs to library. In admin account admin has a bunch o
     2) Admin can issue a book to a user by their id.
     3) Admin can revoke the book that was returned by the person who had borrowed it from the reception desk.
 <sup>feedback mechanism: you need to issue with correct info and you can not issue a book to more than one person or admin account otherwise you got warning:</sup>
-<sup>THIS BOOK IS NOT AVAILABLE</sup>
-<sup>INVALID User ID</sup>
-<sup>INVALID Book ID</sup>
+   <sup>THIS BOOK IS NOT AVAILABLE</sup>
+   <sup>INVALID User ID</sup>
+   <sup>INVALID Book ID</sup>
     
 3. _User Panel_
     ```
