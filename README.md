@@ -70,8 +70,7 @@ There is an admin panel belongs to library. In admin account admin has a bunch o
 
 ## User Login 📑
 Users can create account for displaying virtual library for borrowing book. In user login;
-
-    ```
+    
     1) Users can display info about all books and their status (available/issued).
     2) Users can display all issued book to themselves.
     3) Users can display their account information and change their password
@@ -86,43 +85,6 @@ Users can create account for displaying virtual library for borrowing book. In u
          •ʏᴏᴜʀ ᴘᴀꜱꜱᴡᴏʀᴅ ʜᴀꜱ ʙᴇᴇɴ ᴄʜᴀɴɢᴇᴅ!
        ᴄᴀɴ'ᴛ ᴄʀᴇᴀᴛᴇ ᴀᴄᴄᴏᴜɴᴛ ᴡɪᴛʜ ᴇxɪꜱᴛɪɴɢ ᴜꜱᴇʀ ᴇᴍᴀɪʟ
          •ᴜꜱᴇʀ ᴀʟʀᴇᴀᴅʏ ᴇxɪꜱᴛ!
-3. Connecting to the postgreSQL databse of project.
-    ```
-    1) In the pgAdmin interface, click on "Add New Server" (usually a plus icon or an "Add New Server" option in the menu).
-    2) In the "General" tab, provide a name for your server in the "Name" field.
-    3) Switch to the "Connection" tab.
-    4) In the "Host name/address" field, enter the name of the PostgreSQL service in your Docker Compose setup. In your case, it's likely "db."
-    5) In the "Port" field, enter the PostgreSQL port, which is 5432 by default.
-    6) In the "Maintenance database" field, enter the name of your PostgreSQL database. In your case, it's "mydb."
-    7) In the "Username" and "Password" fields, enter the PostgreSQL username and password. In your case, they are "myuser" and "mypassword."
-    8) Click "Save" to save the connection details.
-    9) In the pgAdmin interface, you should now see your server listed in the left sidebar. Click on it to expand the tree and see the databases, schemas, and other objects.
-    10) You can now browse and manage your PostgreSQL database using pgAdmin.
-
-
-## The API provides the following features 🎇
-
-Image Upload:
-
-To upload an image, make a POST request to /api/upload/. In the request, provide parameters such as the username (username), access tier (tier), image file (image), and expiration link duration (expire_link_duration).
-
-1) Fetching the List of Images:
-
-```
-To get a list of all images, make a GET request to /api/images/.
-```
-2) Fetching User Images:
-
-```
-To get images of a specific user, make a GET request to /api/images/{username}/, where {username} is the username.
-```
-3) Fetching an Image via Expiring Link:
-
-```
-To get an image via an expiring link, make a GET request to /api/expire-links/{expire_link_token}/, where {expire_link_token} is the token for the expiration link.
-```
-
-
 
 ## Technologies used during development ⚙
 
