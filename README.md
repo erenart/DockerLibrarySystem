@@ -12,16 +12,13 @@ There are 2 different databases connected: "librarysystem" for library system (w
 To set up the project, you'll need Docker and Docker Compose. Follow these steps:
 
 1. Clone the repository:
-
    ```
    git clone https://github.com/erenart/DockerLibrarySystem
    cd DockerLibrarySystem
 2. In project directory start the project using Docker Compose command:
-
     ```
     docker-compose up --build
 3. After a successful launch, your project and database will be accessible
-
     ```
     PROJECT at: http://localhost:9000/
     DATABASE at: http://localhost:9001/
@@ -29,7 +26,6 @@ To set up the project, you'll need Docker and Docker Compose. Follow these steps
 
 
 4. Access phpMyAdmin interface at http://localhost:9001/
-
     ```
     username: root
     password: root
@@ -49,26 +45,27 @@ To set up the project, you'll need Docker and Docker Compose. Follow these steps
 ## Admin Panel 📑
 There is an admin panel belongs to library. In admin account admin has a bunch of authorities on library data over these 3 pages;
 
-    ```
-    1) Books Panel
-    2) Issue Book
-    3) User Panel
-2. _Books Panel_
+     ```
+     1) Books Panel
+     2) Issue Book
+     3) User Panel
+
+1. _Books Panel_
     ```
     1) Admin can display info about all books and their status (available/issued).
     2) Admin can **add** a new book to the system.
     3) Admin can **edit** current book in the system.
     4) Admin can **delete** current book from the system.
-2. _Issue Book_
+3. _Issue Book_
     ```
     1) Admin can display information about all issued books, including details about who issued them and for how many days
     2) Admin can issue a book to a user by their id.
-    _feedback mechanism: you need to issue with correct info and you can not issue a book to more than one person or admin account you got warning:_
-    _THIS BOOK IS NOT AVAILABLE_
-    _INVALID User ID_
-    _INVALID Book ID_
     3) Admin can revoke the book that was returned by the person who had borrowed it from the reception desk.
-3. _User Panel_ <sup>superscript</sup>
+<sup>feedback mechanism: you need to issue with correct info and you can not issue a book to more than one person or admin account you got warning:</sup>
+    <sup>THIS BOOK IS NOT AVAILABLE</sup>
+    <sup>INVALID User ID</sup>
+    <sup>INVALID Book ID</sup>
+5. _User Panel_
     ```
     1) Admin can display information about all users.
     2) Admin can delete a user's account.
