@@ -96,5 +96,5 @@ Users can create account for displaying virtual library for borrowing book. In u
 
 ### **Authors 👨‍💻👨‍💻**
 
-- Ahmet Eren Artam - 41155                                 | Recep Enes Karatekin - 40796
-- https://github.com/erenart                               |
+- Ahmet Eren Artam - 41155                                            | Recep Enes Karatekin - 40796
+- https://github.com/erenart                                          | https://github.com/EnessK22
