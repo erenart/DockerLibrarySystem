@@ -55,7 +55,8 @@ There is an admin panel belongs to library. In admin account admin has a bunch o
     1) Admin can display information about all issued books, including details about who issued them and for how many days
     2) Admin can issue a book to a user by their id.
     3) Admin can revoke the book that was returned by the person who had borrowed it from the reception desk.
-         ꜰᴇᴇᴅʙᴀᴄᴋ ᴍᴇᴄʜᴀɴɪꜱᴍ: ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ɪꜱꜱᴜᴇ ᴡɪᴛʜ ᴄᴏʀʀᴇᴄᴛ ɪɴꜰᴏ ᴀɴᴅ ʏᴏᴜ ᴄᴀɴ ɴᴏᴛ ɪꜱꜱᴜᴇ ᴀ ʙᴏᴏᴋ ᴛᴏ ᴍᴏʀᴇ ᴛʜᴀɴ ᴏɴᴇ ᴘᴇʀꜱᴏɴ ᴏʀ ᴀᴅᴍɪɴ ᴀᴄᴄᴏᴜɴᴛ ᴏᴛʜᴇʀᴡɪꜱᴇ ʏᴏᴜ ɢᴏᴛ ᴡᴀʀɴɪɴɢ:
+         ꜰᴇᴇᴅʙᴀᴄᴋ ᴍᴇᴄʜᴀɴɪꜱᴍ: ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ɪꜱꜱᴜᴇ ᴡɪᴛʜ ᴄᴏʀʀᴇᴄᴛ ɪɴꜰᴏ ᴀɴᴅ ʏᴏᴜ ᴄᴀɴ ɴᴏᴛ ɪꜱꜱᴜᴇ ᴀ ʙᴏᴏᴋ ᴛᴏ ᴍᴏʀᴇ ᴛʜᴀɴ ᴏɴᴇ ᴘᴇʀꜱᴏɴ ᴏʀ ᴀᴅᴍɪɴ ᴀᴄᴄᴏᴜɴᴛ
+         ᴏᴛʜᴇʀᴡɪꜱᴇ ʏᴏᴜ ɢᴏᴛ ᴡᴀʀɴɪɴɢ:
          •ᴛʜɪꜱ ʙᴏᴏᴋ ɪꜱ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ
          •ɪɴᴠᴀʟɪᴅ ᴜꜱᴇʀ ɪᴅ
          •ɪɴᴠᴀʟɪᴅ ʙᴏᴏᴋ ɪᴅ
