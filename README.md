@@ -55,11 +55,13 @@ There is an admin panel belongs to library. In admin account admin has a bunch o
     1) Admin can display information about all issued books, including details about who issued them and for how many days
     2) Admin can issue a book to a user by their id.
     3) Admin can revoke the book that was returned by the person who had borrowed it from the reception desk.
-       ⚠️ꜰᴇᴇᴅʙᴀᴄᴋ ᴍᴇᴄʜᴀɴɪꜱᴍ: ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ɪꜱꜱᴜᴇ ᴡɪᴛʜ ᴄᴏʀʀᴇᴄᴛ ɪɴꜰᴏ ᴀɴᴅ ʏᴏᴜ ᴄᴀɴ ɴᴏᴛ ɪꜱꜱᴜᴇ ᴀ ʙᴏᴏᴋ ᴛᴏ ᴍᴏʀᴇ ᴛʜᴀɴ ᴏɴᴇ ᴘᴇʀꜱᴏɴ ᴏʀ ᴀᴅᴍɪɴ
-         ᴏᴛʜᴇʀᴡɪꜱᴇ ʏᴏᴜ ɢᴏᴛ ᴡᴀʀɴɪɴɢ:
-         •ᴛʜɪꜱ ʙᴏᴏᴋ ɪꜱ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ
-         •ɪɴᴠᴀʟɪᴅ ᴜꜱᴇʀ ɪᴅ
+       ⚠️ꜰᴇᴇᴅʙᴀᴄᴋ ᴍᴇᴄʜᴀɴɪꜱᴍ:
+       ʙᴏᴏᴋ ɪᴅ ᴍᴜꜱᴛ ᴇxɪꜱᴛ
          •ɪɴᴠᴀʟɪᴅ ʙᴏᴏᴋ ɪᴅ
+        ᴜꜱᴇʀ ɪᴅ ᴍᴜꜱᴛ ᴇxɪꜱᴛ ᴏʀ ᴄᴀɴ'ᴛ ʙᴇ ᴀᴅᴍɪɴ ɪᴅ
+         •ɪɴᴠᴀʟɪᴅ ᴜꜱᴇʀ ɪᴅ
+       ʏᴏᴜ ᴄᴀɴ ɴᴏᴛ ɪꜱꜱᴜᴇ ᴀ ʙᴏᴏᴋ ᴛᴏ ᴍᴏʀᴇ ᴛʜᴀɴ ᴏɴᴇ ᴘᴇʀꜱᴏɴ
+         •ᴛʜɪꜱ ʙᴏᴏᴋ ɪꜱ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ
     
 3. _User Panel_
     ```
@@ -74,15 +76,16 @@ Users can create account for displaying virtual library for borrowing book. In u
     2) Users can display all issued book to themselves.
     3) Users can display their account information and change their password
        ⚠️ 𝐟𝐞𝐞𝐝𝐛𝐚𝐜𝐤 𝐦𝐞𝐜𝐡𝐚𝐧𝐢𝐬𝐦:
-       ⚠ᴄᴏʀʀᴇᴄᴛ ᴄᴏɴꜰɪʀᴍᴀᴛɪᴏɴ ᴏꜰ ɴᴇᴡ ᴘᴀꜱꜱᴡᴏʀᴅ
+       ᴏʟᴅ ᴘᴀꜱꜱᴡᴏʀᴅ ᴍᴜꜱᴛ ʙᴇ ᴄᴏʀʀᴇᴄᴛ 
+         •ᴡʀᴏɴɢ ᴘᴀꜱꜱᴡᴏʀᴅ
+       ᴘᴀꜱꜱᴡᴏʀᴅ ᴄᴏɴꜰɪʀᴍᴀᴛɪᴏɴ ᴍᴜꜱᴛ ᴍᴀᴛᴄʜ
          •ᴘᴀꜱꜱᴡᴏʀᴅꜱ ᴅᴏ ɴᴏᴛ ᴍᴀᴛᴄʜ
-       ⚠ɴᴇᴡ ᴘᴀꜱꜱᴡᴏʀᴅ ᴄᴀɴ'ᴛ ᴄʜᴀɴɢᴇ ᴛᴏ ʙᴇ ᴛʜᴇ ᴘʀᴇᴠɪᴏᴜꜱ ᴏɴᴇ
+       ɴᴇᴡ ᴘᴀꜱꜱᴡᴏʀᴅ ᴄᴀɴ'ᴛ ᴄʜᴀɴɢᴇᴅ ᴛᴏ ʙᴇ ᴛʜᴇ ᴘʀᴇᴠɪᴏᴜꜱ ᴏɴᴇ
          •ɴᴇᴡ ᴘᴀꜱꜱᴡᴏʀᴅ ᴄᴀɴ ɴᴏᴛ ʙᴇ ᴛʜᴇ ꜱᴀᴍᴇ ᴀꜱ ʏᴏᴜʀ ᴏʟᴅ ᴘᴀꜱꜱᴡᴏʀᴅ
-       ⚠ᴘᴀꜱꜱᴡᴏʀᴅ ᴄʜᴀɴɢᴇ ꜱᴜᴄᴄᴇꜱꜱ
+       ᴘᴀꜱꜱᴡᴏʀᴅ ᴄʜᴀɴɢᴇ ꜱᴜᴄᴄᴇꜱꜱ
          •ʏᴏᴜʀ ᴘᴀꜱꜱᴡᴏʀᴅ ʜᴀꜱ ʙᴇᴇɴ ᴄʜᴀɴɢᴇᴅ!
-
-
-    
+       ᴄᴀɴ'ᴛ ᴄʀᴇᴀᴛᴇ ᴀᴄᴄᴏᴜɴᴛ ᴡɪᴛʜ ᴇxɪꜱᴛɪɴɢ ᴜꜱᴇʀ ᴇᴍᴀɪʟ
+         •ᴜꜱᴇʀ ᴀʟʀᴇᴀᴅʏ ᴇxɪꜱᴛ!
 3. Connecting to the postgreSQL databse of project.
     ```
     1) In the pgAdmin interface, click on "Add New Server" (usually a plus icon or an "Add New Server" option in the menu).
