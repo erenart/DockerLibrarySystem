@@ -44,8 +44,6 @@ To set up the project, you'll need Docker and Docker Compose. Follow these steps
    password: 1234
 ## Admin Panel 📑
 There is an admin panel belongs to library. In admin account admin has a bunch of authorities on library data over these 3 pages;
-
-     ```
      1) Books Panel
      2) Issue Book
      3) User Panel
@@ -53,18 +51,22 @@ There is an admin panel belongs to library. In admin account admin has a bunch o
 1. _Books Panel_
     ```
     1) Admin can display info about all books and their status (available/issued).
-    2) Admin can **add** a new book to the system.
-    3) Admin can **edit** current book in the system.
-    4) Admin can **delete** current book from the system.
+    2) Admin can add a new book to the system.
+    3) Admin can edit current book in the system.
+    4) Admin can delete current book from the system.
 3. _Issue Book_
     ```
     1) Admin can display information about all issued books, including details about who issued them and for how many days
     2) Admin can issue a book to a user by their id.
     3) Admin can revoke the book that was returned by the person who had borrowed it from the reception desk.
 <sup>feedback mechanism: you need to issue with correct info and you can not issue a book to more than one person or admin account you got warning:</sup>
+
     <sup>THIS BOOK IS NOT AVAILABLE</sup>
+    
     <sup>INVALID User ID</sup>
+    
     <sup>INVALID Book ID</sup>
+    
 5. _User Panel_
     ```
     1) Admin can display information about all users.
