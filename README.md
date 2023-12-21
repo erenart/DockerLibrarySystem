@@ -28,7 +28,7 @@ To set up the project, you'll need Docker and Docker Compose. Follow these steps
     PROJECT at: http://localhost:9000/
     DATABASE at: http://localhost:9001/
     
-# BEFORE USING THE WEB APPLICATION DON'T FORGET TO SET UP THE DATABASE
+## BEFORE USING THE WEB APPLICATION DON'T FORGET TO SET UP THE DATABASE
 
 
 4. Access phpMyAdmin interface at http://localhost:9001/
@@ -74,10 +74,10 @@ There is an admin panel belongs to library. In admin account admin has a bunch o
     ```
     1) Admin can display information about all issued books, including details about who issued them and for how many days
     2) Admin can issue a book to a user by their id.
-    _feedback mechanism: you need to issue with correct info and you can not issue a book to more than one person or admin account you got warning:_
-    _THIS BOOK IS NOT AVAILABLE_
-    _INVALID User ID_
-    _INVALID Book ID_
+    <sup>_feedback mechanism: you need to issue with correct info and you can not issue a book to more than one person or admin account you got warning:_</sup>
+    <sup>_THIS BOOK IS NOT AVAILABLE_</sup>
+    <sup>_INVALID User ID_</sup>
+    <sup>_INVALID Book ID_</sup>
     3) Admin can revoke the book that was returned by the person who had borrowed it from the reception desk.
     
 
