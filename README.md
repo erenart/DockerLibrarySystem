@@ -116,5 +116,5 @@ To get an image via an expiring link, make a GET request to /api/expire-links/{e
 
 ### **Authors 👨‍💻👨‍💻**
 
-- Ahmet Eren Artam - 41155                                 | Recep Enes Karatekin - 40796
+- Ahmet Eren Artam - 41155                                 | Recep Karatekin - 40796
 - https://github.com/erenart                               |
