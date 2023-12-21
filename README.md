@@ -73,11 +73,12 @@ Users can create account for displaying virtual library for borrowing book. In u
     1) Users can display info about all books and their status (available/issued).
     2) Users can display all issued book to themselves.
     3) Users can display their account information and change their password
-       ⚠️ꜰᴇᴇᴅʙᴀᴄᴋ ᴍᴇᴄʜᴀɴɪꜱᴍ: ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴇɴᴛᴇʀ ᴏʟᴅ ᴘᴀꜱꜱᴡᴏʀᴅ ᴄᴏʀʀᴇᴄᴛʟʏ, ᴄᴏʀʀᴇᴄᴛ ᴄᴏɴꜰɪʀᴍᴀᴛɪᴏɴ ᴏꜰ ɴᴇᴡ ᴘᴀꜱꜱᴡᴏʀᴅ ᴀɴᴅ ɴᴇᴡ ᴘᴀꜱꜱᴡᴏʀᴅ ᴄᴀɴ'ᴛ ʙᴇ ᴘʀᴇᴠɪᴏᴜꜱ ᴏɴᴇ
-         ᴏᴛʜᴇʀᴡɪꜱᴇ ʏᴏᴜ ɢᴏᴛ ᴡᴀʀɴɪɴɢ:
-         •ᴡʀᴏɴɢ ᴘᴀꜱꜱᴡᴏʀᴅ
+       ⚠️ 𝐟𝐞𝐞𝐝𝐛𝐚𝐜𝐤 𝐦𝐞𝐜𝐡𝐚𝐧𝐢𝐬𝐦:
+       ⚠ᴄᴏʀʀᴇᴄᴛ ᴄᴏɴꜰɪʀᴍᴀᴛɪᴏɴ ᴏꜰ ɴᴇᴡ ᴘᴀꜱꜱᴡᴏʀᴅ
          •ᴘᴀꜱꜱᴡᴏʀᴅꜱ ᴅᴏ ɴᴏᴛ ᴍᴀᴛᴄʜ
+       ⚠ɴᴇᴡ ᴘᴀꜱꜱᴡᴏʀᴅ ᴄᴀɴ'ᴛ ᴄʜᴀɴɢᴇ ᴛᴏ ʙᴇ ᴛʜᴇ ᴘʀᴇᴠɪᴏᴜꜱ ᴏɴᴇ
          •ɴᴇᴡ ᴘᴀꜱꜱᴡᴏʀᴅ ᴄᴀɴ ɴᴏᴛ ʙᴇ ᴛʜᴇ ꜱᴀᴍᴇ ᴀꜱ ʏᴏᴜʀ ᴏʟᴅ ᴘᴀꜱꜱᴡᴏʀᴅ
+       ⚠ᴘᴀꜱꜱᴡᴏʀᴅ ᴄʜᴀɴɢᴇ ꜱᴜᴄᴄᴇꜱꜱ
          •ʏᴏᴜʀ ᴘᴀꜱꜱᴡᴏʀᴅ ʜᴀꜱ ʙᴇᴇɴ ᴄʜᴀɴɢᴇᴅ!
 
 
