@@ -40,9 +40,9 @@ To set up the project, you'll need Docker and Docker Compose. Follow these steps
    password: 1234
 ## Admin Panel 📑
 There is an admin panel belongs to library. In admin account admin has a bunch of authorities on library data over these 3 pages;
-     ***Books Panel***
-     ***Issue Book***
-     ***User Panel***
+     - ***Books Panel***
+     - ***Issue Book***
+     - ***User Panel***
 
 1. _Books Panel_
     ```
