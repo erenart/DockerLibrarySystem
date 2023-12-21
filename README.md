@@ -56,9 +56,9 @@ There is an admin panel belongs to library. In admin account admin has a bunch o
     2) Admin can issue a book to a user by their id.
     3) Admin can revoke the book that was returned by the person who had borrowed it from the reception desk.
 <sup>feedback mechanism: you need to issue with correct info and you can not issue a book to more than one person or admin account otherwise you got warning:</sup>
-   <sup>THIS BOOK IS NOT AVAILABLE</sup>
-   <sup>INVALID User ID</sup>
-   <sup>INVALID Book ID</sup>
+   ᴛʜɪꜱ ʙᴏᴏᴋ ɪꜱ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ
+   ɪɴᴠᴀʟɪᴅ ᴜꜱᴇʀ ɪᴅ
+   ɪɴᴠᴀʟɪᴅ ʙᴏᴏᴋ ɪᴅ
     
 3. _User Panel_
     ```
@@ -73,10 +73,10 @@ Users can create account for displaying virtual library for borrowing book. In u
     2) Users can display all issued book to themselves.
     3) Users can display their account information and change their password
 <sup>feedback mechanism: you need to enter old password correctly, correct confirmation of new password and new password can't be previous one otherwise you got warning:</sup>
-- <sup>WRONG PASSWORD</sup>
-- <sup>PASSWORDS DO NOT MATCH</sup>
-- <sup>NEW PASSWORD CAN NOT BE THE SAME AS YOUR OLD PASSWORD</sup>
-- <sup>YOUR PASSWORD HAS BEEN CHANGED!</sup>
+ᴡʀᴏɴɢ ᴘᴀꜱꜱᴡᴏʀᴅ
+ᴘᴀꜱꜱᴡᴏʀᴅꜱ ᴅᴏ ɴᴏᴛ ᴍᴀᴛᴄʜ
+ɴᴇᴡ ᴘᴀꜱꜱᴡᴏʀᴅ ᴄᴀɴ ɴᴏᴛ ʙᴇ ᴛʜᴇ ꜱᴀᴍᴇ ᴀꜱ ʏᴏᴜʀ ᴏʟᴅ ᴘᴀꜱꜱᴡᴏʀᴅ
+ʏᴏᴜʀ ᴘᴀꜱꜱᴡᴏʀᴅ ʜᴀꜱ ʙᴇᴇɴ ᴄʜᴀɴɢᴇᴅ!
 
 
 
