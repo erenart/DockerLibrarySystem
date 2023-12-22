@@ -18,7 +18,7 @@ if(isset($_POST['submit'])){
 
    if(mysqli_num_rows($result) > 0){
 
-      $error[] = 'User already exist!';
+      $error[] = 'Email already in use!';
 
    }else{
 
