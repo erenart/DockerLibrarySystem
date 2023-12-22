@@ -1,12 +1,13 @@
 version: "2"
 services:
   webapp:
+    build:
+      context: .
+      dockerfile: Dockerfile
     container_name: librarysystem
     image: librarysystemimage
     ports:
       - "9000:80"
-    #volumes:
-    #  - ./app:/var/www/html
 
   mysql_db:
     container_name: mysql_db
