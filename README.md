@@ -43,7 +43,6 @@ There is an admin panel belongs to library. In admin account admin has a bunch o
    - ***Books Panel***
    - ***Issue Book***
    - ***User Panel***
-
 1. _Books Panel_
     ```
     1) Admin can display info about all books and their status (available/issued).
@@ -62,12 +61,10 @@ There is an admin panel belongs to library. In admin account admin has a bunch o
          •ɪɴᴠᴀʟɪᴅ ᴜꜱᴇʀ ɪᴅ
        ʏᴏᴜ ᴄᴀɴ ɴᴏᴛ ɪꜱꜱᴜᴇ ᴀ ʙᴏᴏᴋ ᴛᴏ ᴍᴏʀᴇ ᴛʜᴀɴ ᴏɴᴇ ᴘᴇʀꜱᴏɴ
          •ᴛʜɪꜱ ʙᴏᴏᴋ ɪꜱ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ
-    
 3. _User Panel_
     ```
     1) Admin can display information about all users.
     2) Admin can delete a user's account.
-
 ## User Login 📑
 Users can create account for displaying virtual library for borrowing book. In user login;
     
@@ -85,15 +82,12 @@ Users can create account for displaying virtual library for borrowing book. In u
          •ʏᴏᴜʀ ᴘᴀꜱꜱᴡᴏʀᴅ ʜᴀꜱ ʙᴇᴇɴ ᴄʜᴀɴɢᴇᴅ!
        ᴄᴀɴ'ᴛ ᴄʀᴇᴀᴛᴇ ᴀᴄᴄᴏᴜɴᴛ ᴡɪᴛʜ ᴇxɪꜱᴛɪɴɢ ᴜꜱᴇʀ ᴇᴍᴀɪʟ
          •ᴜꜱᴇʀ ᴀʟʀᴇᴀᴅʏ ᴇxɪꜱᴛ!
-
 ## Technologies used during development ⚙
 - PHP
 - MySQL
 - phpMyAdmin
 - Docker and docker compose
 - AdminLTE
-
 ### **Authors 👨‍💻👨‍💻**
-
 - Ahmet Eren Artam - 41155                      |                     Recep Enes Karatekin - 40796
 - https://github.com/erenart                      |                     https://github.com/EnessK22
