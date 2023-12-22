@@ -81,7 +81,10 @@ Users can create account for displaying virtual library for borrowing book. In u
        ᴘᴀꜱꜱᴡᴏʀᴅ ᴄʜᴀɴɢᴇ ꜱᴜᴄᴄᴇꜱꜱ
          •ʏᴏᴜʀ ᴘᴀꜱꜱᴡᴏʀᴅ ʜᴀꜱ ʙᴇᴇɴ ᴄʜᴀɴɢᴇᴅ!
        ᴄᴀɴ'ᴛ ᴄʀᴇᴀᴛᴇ ᴀᴄᴄᴏᴜɴᴛ ᴡɪᴛʜ ᴇxɪꜱᴛɪɴɢ ᴜꜱᴇʀ ᴇᴍᴀɪʟ
-         •ᴜꜱᴇʀ ᴀʟʀᴇᴀᴅʏ ᴇxɪꜱᴛ!
+         •ᴇᴍᴀɪʟ ᴀʟʀᴇᴀᴅʏ ɪɴ ᴜꜱᴇ!
+       ᴄᴏɴꜰɪʀᴍ ɴᴇᴡ ᴘᴀꜱꜱᴡᴏʀᴅ ᴍᴜꜱᴛ ᴍᴀᴛᴄʜ
+         •ᴘᴀꜱꜱᴡᴏʀᴅ ɴᴏᴛ ᴍᴀᴛᴄʜᴇᴅ!
+
 ## Technologies used during development ⚙
 - PHP
 - MySQL
