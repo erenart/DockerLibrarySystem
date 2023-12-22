@@ -1,4 +1,4 @@
-# Library System
+# Library System ☁︎
 
 The Library System is a web application designed to manage all aspects of a library's book inventory. The system features an admin panel and user login functionality. The primary goal of the application is to facilitate efficient library management, primarily benefiting librarians. It allows for comprehensive book management, including functions such as adding, updating, and deleting books. Additionally, the system provides a user-friendly interface, enabling users to access and display book data seamlessly.
 There are 2 different databases connected: "librarysystem" for library system (website/system general), "user_db" for users (user data).
@@ -87,7 +87,6 @@ Users can create account for displaying virtual library for borrowing book. In u
          •ᴜꜱᴇʀ ᴀʟʀᴇᴀᴅʏ ᴇxɪꜱᴛ!
 
 ## Technologies used during development ⚙
-
 - PHP
 - MySQL
 - phpMyAdmin
@@ -96,5 +95,5 @@ Users can create account for displaying virtual library for borrowing book. In u
 
 ### **Authors 👨‍💻👨‍💻**
 
-- Ahmet Eren Artam - 41155               Recep Enes Karatekin - 40796
-- https://github.com/erenart             https://github.com/EnessK22          
+- Ahmet Eren Artam - 41155                       ⌔                    Recep Enes Karatekin - 40796
+- https://github.com/erenart                     ⌔                    https://github.com/EnessK22
